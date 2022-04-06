@@ -1,0 +1,6 @@
+[production]
+listen_at = "0.0.0.0:10000"
+self_webhook = "https://aaae20cef46e.ngrok.io"
+bot_uid = "e13474eb-9559-47cd-b684-5ce1428dcccc"
+bot_secret = "6d610218ceaa46a49dd42d634d1f19f2d1945b3b9c044693827e15936e81b0bf"
+leak_server_address = "127.0.0.1:10012"
